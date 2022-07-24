@@ -1,3 +1,3 @@
-# amirhossein-resume
+# Resume
 
-My personal and educational resume
+My personal and educational resume.
