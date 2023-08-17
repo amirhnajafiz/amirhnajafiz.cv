@@ -1,0 +1,27 @@
+internships:
+  - company: maktab sharif
+    semester: summer
+    year: 2021
+    position: trainee backend developer
+  - company: snapp!
+    semester: summer
+    year: 2022
+    position: trainee software engineer
+
+work:
+  - company: iranian cyber
+    position: teacher and mentor
+    start: September 2021
+    end: November 2021
+  - company: snapp!
+    position: backend trainee
+    start: December 2021
+    end: February 2022
+  - company: snapp!
+    position: junior backend developer
+    start: February 2022
+    end: February 2023
+  - company: snapp!
+    position: mid-level software engineer
+    start: February 2023
+  
