@@ -47,7 +47,10 @@ ta:
 projects:
   - title: Automated Penetration Testing over Cloud Applications
     year: 2023
-    supervisor: Dr.Sadeghian
+    supervisor: Dr.Sadeghian / Dr.Khorsandi
+  - title: Rewriting Computer networks lab manual
+    year: 2023
+    supervisor: Dr.Sabaie
   - title: QJump over NIC
     year: 2023
     supervisor: Dr.Javadi
