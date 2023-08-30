@@ -35,6 +35,14 @@ ta:
     year: 2023
     semester: spring
     professor: Dr.Javadi
+  - course: web engineering
+    year: 2023
+    semester: fall
+    professor: Dr.Alvani
+  - course: data communication
+    year: 2023
+    semester: fall
+    professor: Dr.Sadeghian
 
 projects:
   - title: Automated Penetration Testing over Cloud Applications
